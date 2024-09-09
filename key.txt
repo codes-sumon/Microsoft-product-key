@@ -1,0 +1,92 @@
+SQL Server 2017
+---------------- 
+Enterprise Core - 6GPYM-VHN83-PHDM2-Q9T2R-KBV83 
+Developer - 22222-00000-00000-00000-00000 
+Enterprise - TDKQD-PKV44-PJT4N-TCJG2-3YJ6B 
+Standard - PHDV4-3VJWD-N7JVP-FGPKY-XBV89 
+Web - WV79P-7K6YG-T7QFN-M3WHF-37BXC 
+
+https://www.teamos-hkrg.com/index.php?threads/microsoft-sql-server-english-2017-rtm-teamos.42103/
+
+hey check does product key of all msft sql server edition:
+Microsoft Sql Server 2008 Developer == PTTFM-X467G-P7RH2-3Q6CG-4DMYB
+Microsoft Sql Server 2008 Enterprise == JD8Y6-HQG69-P9H84-XDTPG-34MBB
+Microsoft Sql Server 2008 R2 Developer (32-bit) == MC46H-JQR3C-2JRHY-XYRKY-QWPVM
+Microsoft Sql Server 2008 R2 Developer (64-bit) == FTMGC-B2J97-PJ4QG-V84YB-MTXX8
+Microsoft Sql Server 2008 R2 Data Center (32-bit) == PTTFM-X467G-P7RH2-3Q6CG-4DMYB
+Microsoft Sql Server 2008 R2 Data Center (64-bit) == DDT3B-8W62X-P9JD6-8MX7M-HWK38
+Microsoft Sql Server 2008 R2 Enterprise (32-bit) == R88PF-GMCFT-KM2KR-4R7GB-43K4B
+Microsoft Sql Server 2008 R2 Enterprise (64-bit) == GYF3T-H2V88-GRPPH-HWRJP-QRTYB
+Microsoft Sql Server 2008 R2 Standard (32-bit) == CXTFT-74V4Y-9D48T-2DMFW-TX7CY
+Microsoft Sql Server 2008 R2 Standard (64-bit) == B68Q6-KK2R7-89WGB-6Q9KR-QHFDW
+Microsoft Sql Server 2008 R2 Working Group == XQ4CB-VK9P3-4WYYH-4HQX3-K2R6Q
+Microsoft Sql Server 2008 R2 Web == FP4P7-YKG22-WGRVK-MKGMX-V9MTM
+Microsoft Sql Server 2012 Enterprise Core == FH666-Y346V-7XFQ3-V69JM-RHW28
+Microsoft Sql Server 2012 Business Intelligence == HRV7T-DVTM4-V6XG8-P36T4-MRYT6
+Microsoft Sql Server 2012 Developer == YQWTX-G8T4R-QW4XX-BVH62-GP68Y
+Microsoft Sql Server 2012 Enterprise Server/CAL == 748RB-X4T6B-MRM7V-RTVFF-CHC8H
+Microsoft Sql Server 2012 Standard == YFC4R-BRRWB-TVP9Y-6WJQ9-MCJQ7
+Microsoft Sql Server 2012 Web == FB3W8-YRXDP-G8F8F-C46KG-Q998F
+Microsoft Sql Server 2012 R2 Developer == YQWTX-G8T4R-QW4XX-BVH62-GP68Y
+Microsoft Sql Server 2014 Web == J9MBB-R8PMP-R8WTW-8JJRD-C6GGW
+Microsoft Sql Server 2014 Standard == P7FRV-Y6X6Y-Y8C6Q-TB4QR-DMTTK
+Microsoft Sql Server 2014 Developer == 82YJF-9RP6B-YQV9M-VXQFR-YJBGX
+Microsoft Sql Server 2014 Enterprise == 27HMJ-GH7P9-X2TTB-WPHQC-RG79R
+Microsoft Sql Server 2014 Enterprise Core == TJYBJ-8YGH6-QK2JJ-M9DFB-D7M9D
+Microsoft Sql Server 2014 Business Intelligence == GJPF4-7PTW4-BB9JH-BVP6M-WFTMJ
+Microsoft Sql Server 2016 Enterprise == MDCJV-3YX8N-WG89M-KV443-G8249
+Microsoft Sql Server 2016 Enterprise Core == TBR8B-BXC4Y-298NV-PYTBY-G3BCP
+Microsoft Sql Server 2016 Standard == B9GQY-GBG4J-282NY-QRG4X-KQBCR
+Microsoft Sql Server 2016 Web == BXJTY-X3GNH-WHTHG-8V3XK-T8243
+Microsoft Sql Server 2017 Enterprise == TDKQD-PKV44-PJT4N-TCJG2-3YJ6B
+Microsoft Sql Server 2019 Developer == 22222-00000-00000-00000-00000
+Microsoft Sql Server 2019 Enterprise == HMWJ3-KY3J2-NMVD7-KG4JR-X2G8G
+Microsoft Sql Server 2019 Enterprise Core == 2C9JR-K3RNG-QD4M4-JQ2HR-8468J
+Microsoft Sql Server 2019 Standard == PMBDC-FXVM3-T777P-N4FY8-PKFF4
+Microsoft Sql Server 2019 == TDKQD-PKV44-PJT4N-TCJG2-3YJ6B
+Visual Studio 2017
+------------------- 
+Enterprise:  NJVYC-BMHX2-G77MM-4XJMR-6Q8QF  |  N2VYX-9VR2K-T733M-MWD9X-KQCDF
+Professional: KBJFW-NXHK6-W4WJM-CRMQB-G3CDH |  4F3PR-NFKDB-8HFP7-9WXGY-K77T7
+
+Test Professional: VG622-NKFP4-GTWPH-XB2JJ-JFHVF 
+Enterprise: NJVYC-BMHX2-G77MM-4XJMR-6Q8QF
+Professional: KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
+
+Visual Studio 2019 
+--------------------------
+Professional: NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y |  NJVYC-BMHX2-G77MM-4XJMR-6Q8QF
+Enterprise  : BF8Y8-GN2QH-T84XB-QVY3B-RC4DF |  KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
+
+
+Sublime Text 3 Serial key build is 3176
+----------------------------------------
+
+> * Added these lines into  /etc/hosts 
+
+127.0.0.1       www.sublimetext.com
+127.0.0.1       license.sublimehq.com
+
+> * Used the license key
+
+----- BEGIN LICENSE -----
+sgbteam
+Single User License
+EA7E-1153259
+8891CBB9 F1513E4F 1A3405C1 A865D53F
+115F202E 7B91AB2D 0D2A40ED 352B269B
+76E84F0B CD69BFC7 59F2DFEF E267328F
+215652A3 E88F9D8F 4C38E3BA 5B2DAAE4
+969624E7 DC9CD4D5 717FB40C 1B9738CF
+20B3C4F1 E917B5B3 87C38D9C ACCE7DD8
+5F7EF854 86B9743C FADC04AA FB0DA5C0
+F913BE58 42FEA319 F954EFDD AE881E0B
+------ END LICENSE ------
+
+Microsoft office professional Plus 2016 
+----------------------------------------
+NBCRJ-YJ94Q-T73WV-9PR4F-9W3VC
+KNJPJ-YBFTR-42K6M-Y6FMX-BKM3P      
+QQ34F-N3THK-CWTFJ-HD66X-8QK7C
+8FDTG-TNM2Y-C9DF9-QQ9XX-V22X2
+Y89NG-BWMGT-KJPT3-B326G-683VC
